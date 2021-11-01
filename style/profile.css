@@ -1,0 +1,52 @@
+#cover-img{
+    height: 400px;
+    width: 101.5%;
+    border: 3px solid #144756;
+}
+#profile-img{
+    position: absolute;
+    top: 160px;
+    left: 40px;
+
+}
+#update_profile{
+    position: relative;
+    top: -33px;
+    cursor: pointer;
+    left: 93px;
+    border-radius: 4px;
+    background-color: rgba(0,0,0,0.1);
+    transform: translate(-50%, -50%);
+}
+#button_profile{
+    position: absolute;
+    top: 82%;
+    left: 50%;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+}
+#own_posts{
+    background-color: #fff;
+  border: 3px solid #c36e13;
+  border-radius: 25px;
+  padding: 40px 50px;
+  margin-top: -20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+#post_img{
+    height: 300px;
+    width: 100%;
+}
+#insert_post1 {
+    background-color: #fff;
+    width:935px;
+    border: 3px solid #92DFF3;
+    padding: 40px 50px;
+    margin-bottom: 40px;
+    }
+
+#aboutMe{
+    font-family:monospace;
+    font-size: 20px;
+}
